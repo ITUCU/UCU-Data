@@ -1,0 +1,14 @@
+.cache/*.cache
+__pycache__
+*.pyc
+env/
+ucuboard/
+.ucuboard/
+.env/
+log/*.log
+log/*.log.*
+*.py.bak
+.hidden
+bower_components
+.exports*
+.sessions/
